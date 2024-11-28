@@ -1,0 +1,25 @@
+.copyri{
+    text-align: center;
+    position: relative;
+    bottom:0;
+    right:0;
+}
+h2{
+    color:rgb(29, 29, 109);
+}
+nav{
+    text-align: center;
+    word-spacing: 20px;
+    background-color: rgb(37, 195, 195);
+   height: 30px;
+   margin-top:0px;
+}
+img{
+    height: 160px;
+    width: 160px;
+    float: right;
+}
+table,tr,td,th{
+    border: solid;
+    border-collapse: collapse;
+}
